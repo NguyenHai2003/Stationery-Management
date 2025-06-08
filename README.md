@@ -42,6 +42,7 @@ Hệ thống được xây dựng trên nền tảng **kiến trúc client-serve
 ###Giao diện Web App:
 
 * **Trang chủ**:
+* 
 ![Trang chủ 1](https://github.com/user-attachments/assets/0929e62e-7884-4b1d-accf-0fe3884e2864)
 ![Trang chủ 2](https://github.com/user-attachments/assets/716fa47e-1dfe-4fb0-9d9d-7f48e0746baa)
 ![Trang chủ 3](https://github.com/user-attachments/assets/8cd3d24d-f4a6-4de6-b64e-093cfa405b0f)
