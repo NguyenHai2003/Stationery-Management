@@ -71,7 +71,7 @@ Hệ thống được xây dựng trên nền tảng **kiến trúc client-serve
 * **Giỏ hàng**:
 ![Giỏ hàng](https://github.com/user-attachments/assets/0309d7c0-45f7-44d4-962a-0583d57e116a)
 * **Sản phẩm**:
-* ![Sản phẩm](https://github.com/user-attachments/assets/c7057a97-e047-4190-a3a7-7d649c80d905)
+![Sản phẩm](https://github.com/user-attachments/assets/c7057a97-e047-4190-a3a7-7d649c80d905)
 ![Chi tiết sản phẩm](https://github.com/user-attachments/assets/d42d6889-b255-40ab-bd30-8a06c11b6af3)
 * **Đặt hàng**:
 ![Địa chỉ giao hàng](https://github.com/user-attachments/assets/ac169d75-75f3-4d00-a3c3-cf2f44c436ce)
