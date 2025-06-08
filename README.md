@@ -36,3 +36,18 @@ Hệ thống được xây dựng trên nền tảng **kiến trúc client-serve
 * **Web App**: JavaScript
 * **Cơ sở dữ liệu**: MySQL
 * **Cổng thanh toán**: MoMo API
+
+## Giao diện ứng dụng
+* **Giao diện Web App**:
+![Trang chủ 1](https://github.com/user-attachments/assets/0929e62e-7884-4b1d-accf-0fe3884e2864)
+![Trang chủ 2](https://github.com/user-attachments/assets/716fa47e-1dfe-4fb0-9d9d-7f48e0746baa)
+![Trang chủ 3](https://github.com/user-attachments/assets/8cd3d24d-f4a6-4de6-b64e-093cfa405b0f)
+![Trang chủ 4](https://github.com/user-attachments/assets/f5fd2280-f6bc-4ee9-91b4-bfa25dcade52)
+![Trang chủ 5](https://github.com/user-attachments/assets/2caa82de-e30e-40b4-8281-4cad7aa15cb8)
+![Danh sách sản phẩm](https://github.com/user-attachments/assets/aa0100c4-4c48-4cc8-90a3-1909d9d28a1c)
+![Chi tiết sản phẩm](https://github.com/user-attachments/assets/a7520244-bf06-4611-a098-4c9248143f7a)
+![Đặt hàng](https://github.com/user-attachments/assets/98a3c614-aed9-40d4-bd39-24698a1635eb)
+![Thanh toán MoMo](https://github.com/user-attachments/assets/fd80afae-d0ac-4f95-8cee-404a4fa81f11)
+
+* **Giao diện Android App**:
+  
